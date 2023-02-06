@@ -1,0 +1,164 @@
+{
+    "RuleGroups": [
+        {
+            "Name": "ThreatSignaturesIOCStrictOrder",
+            "Arn": "arn:aws:network-firewall:eu-west-1:aws-managed:stateful-rulegroup/ThreatSignaturesIOCStrictOrder"
+        },
+        {
+            "Name": "ThreatSignaturesSuspectStrictOrder",
+            "Arn": "arn:aws:network-firewall:eu-west-1:aws-managed:stateful-rulegroup/ThreatSignaturesSuspectStrictOrder"
+        },
+        {
+            "Name": "ThreatSignaturesFUPActionOrder",
+            "Arn": "arn:aws:network-firewall:eu-west-1:aws-managed:stateful-rulegroup/ThreatSignaturesFUPActionOrder"
+        },
+        {
+            "Name": "ThreatSignaturesWebAttacksActionOrder",
+            "Arn": "arn:aws:network-firewall:eu-west-1:aws-managed:stateful-rulegroup/ThreatSignaturesWebAttacksActionOrder"
+        },
+        {
+            "Name": "ThreatSignaturesExploitsStrictOrder",
+            "Arn": "arn:aws:network-firewall:eu-west-1:aws-managed:stateful-rulegroup/ThreatSignaturesExploitsStrictOrder"
+        },
+        {
+            "Name": "ThreatSignaturesFUPStrictOrder",
+            "Arn": "arn:aws:network-firewall:eu-west-1:aws-managed:stateful-rulegroup/ThreatSignaturesFUPStrictOrder"
+        },
+        {
+            "Name": "ThreatSignaturesScannersStrictOrder",
+            "Arn": "arn:aws:network-firewall:eu-west-1:aws-managed:stateful-rulegroup/ThreatSignaturesScannersStrictOrder"
+        },
+        {
+            "Name": "ThreatSignaturesScannersActionOrder",
+            "Arn": "arn:aws:network-firewall:eu-west-1:aws-managed:stateful-rulegroup/ThreatSignaturesScannersActionOrder"
+        },
+        {
+            "Name": "ThreatSignaturesPhishingActionOrder",
+            "Arn": "arn:aws:network-firewall:eu-west-1:aws-managed:stateful-rulegroup/ThreatSignaturesPhishingActionOrder"
+        },
+        {
+            "Name": "ThreatSignaturesMalwareMobileActionOrder",
+            "Arn": "arn:aws:network-firewall:eu-west-1:aws-managed:stateful-rulegroup/ThreatSignaturesMalwareMobileActionOrder"
+        },
+        {
+            "Name": "ThreatSignaturesSuspectActionOrder",
+            "Arn": "arn:aws:network-firewall:eu-west-1:aws-managed:stateful-rulegroup/ThreatSignaturesSuspectActionOrder"
+        },
+        {
+            "Name": "ThreatSignaturesMalwareWebStrictOrder",
+            "Arn": "arn:aws:network-firewall:eu-west-1:aws-managed:stateful-rulegroup/ThreatSignaturesMalwareWebStrictOrder"
+        },
+        {
+            "Name": "MalwareDomainsActionOrder",
+            "Arn": "arn:aws:network-firewall:eu-west-1:aws-managed:stateful-rulegroup/MalwareDomainsActionOrder"
+        },
+        {
+            "Name": "ThreatSignaturesPhishingStrictOrder",
+            "Arn": "arn:aws:network-firewall:eu-west-1:aws-managed:stateful-rulegroup/ThreatSignaturesPhishingStrictOrder"
+        },
+        {
+            "Name": "ThreatSignaturesWebAttacksStrictOrder",
+            "Arn": "arn:aws:network-firewall:eu-west-1:aws-managed:stateful-rulegroup/ThreatSignaturesWebAttacksStrictOrder"
+        },
+        {
+            "Name": "ThreatSignaturesEmergingEventsActionOrder",
+            "Arn": "arn:aws:network-firewall:eu-west-1:aws-managed:stateful-rulegroup/ThreatSignaturesEmergingEventsActionOrder"
+        },
+        {
+            "Name": "ThreatSignaturesMalwareWebActionOrder",
+            "Arn": "arn:aws:network-firewall:eu-west-1:aws-managed:stateful-rulegroup/ThreatSignaturesMalwareWebActionOrder"
+        },
+        {
+            "Name": "ThreatSignaturesBotnetWindowsActionOrder",
+            "Arn": "arn:aws:network-firewall:eu-west-1:aws-managed:stateful-rulegroup/ThreatSignaturesBotnetWindowsActionOrder"
+        },
+        {
+            "Name": "ThreatSignaturesEmergingEventsStrictOrder",
+            "Arn": "arn:aws:network-firewall:eu-west-1:aws-managed:stateful-rulegroup/ThreatSignaturesEmergingEventsStrictOrder"
+        },
+        {
+            "Name": "ThreatSignaturesBotnetWindowsStrictOrder",
+            "Arn": "arn:aws:network-firewall:eu-west-1:aws-managed:stateful-rulegroup/ThreatSignaturesBotnetWindowsStrictOrder"
+        },
+        {
+            "Name": "ThreatSignaturesBotnetActionOrder",
+            "Arn": "arn:aws:network-firewall:eu-west-1:aws-managed:stateful-rulegroup/ThreatSignaturesBotnetActionOrder"
+        },
+        {
+            "Name": "ThreatSignaturesBotnetStrictOrder",
+            "Arn": "arn:aws:network-firewall:eu-west-1:aws-managed:stateful-rulegroup/ThreatSignaturesBotnetStrictOrder"
+        },
+        {
+            "Name": "AbusedLegitBotNetCommandAndControlDomainsActionOrder",
+            "Arn": "arn:aws:network-firewall:eu-west-1:aws-managed:stateful-rulegroup/AbusedLegitBotNetCommandAndControlDomainsActionOrder"
+        },
+        {
+            "Name": "ThreatSignaturesMalwareActionOrder",
+            "Arn": "arn:aws:network-firewall:eu-west-1:aws-managed:stateful-rulegroup/ThreatSignaturesMalwareActionOrder"
+        },
+        {
+            "Name": "AbusedLegitMalwareDomainsActionOrder",
+            "Arn": "arn:aws:network-firewall:eu-west-1:aws-managed:stateful-rulegroup/AbusedLegitMalwareDomainsActionOrder"
+        },
+        {
+            "Name": "AbusedLegitBotNetCommandAndControlDomainsStrictOrder",
+            "Arn": "arn:aws:network-firewall:eu-west-1:aws-managed:stateful-rulegroup/AbusedLegitBotNetCommandAndControlDomainsStrictOrder"
+        },
+        {
+            "Name": "ThreatSignaturesBotnetWebActionOrder",
+            "Arn": "arn:aws:network-firewall:eu-west-1:aws-managed:stateful-rulegroup/ThreatSignaturesBotnetWebActionOrder"
+        },
+        {
+            "Name": "ThreatSignaturesDoSActionOrder",
+            "Arn": "arn:aws:network-firewall:eu-west-1:aws-managed:stateful-rulegroup/ThreatSignaturesDoSActionOrder"
+        },
+        {
+            "Name": "MalwareDomainsStrictOrder",
+            "Arn": "arn:aws:network-firewall:eu-west-1:aws-managed:stateful-rulegroup/MalwareDomainsStrictOrder"
+        },
+        {
+            "Name": "ThreatSignaturesMalwareMobileStrictOrder",
+            "Arn": "arn:aws:network-firewall:eu-west-1:aws-managed:stateful-rulegroup/ThreatSignaturesMalwareMobileStrictOrder"
+        },
+        {
+            "Name": "BotNetCommandAndControlDomainsStrictOrder",
+            "Arn": "arn:aws:network-firewall:eu-west-1:aws-managed:stateful-rulegroup/BotNetCommandAndControlDomainsStrictOrder"
+        },
+        {
+            "Name": "ThreatSignaturesMalwareCoinminingActionOrder",
+            "Arn": "arn:aws:network-firewall:eu-west-1:aws-managed:stateful-rulegroup/ThreatSignaturesMalwareCoinminingActionOrder"
+        },
+        {
+            "Name": "AbusedLegitMalwareDomainsStrictOrder",
+            "Arn": "arn:aws:network-firewall:eu-west-1:aws-managed:stateful-rulegroup/AbusedLegitMalwareDomainsStrictOrder"
+        },
+        {
+            "Name": "ThreatSignaturesDoSStrictOrder",
+            "Arn": "arn:aws:network-firewall:eu-west-1:aws-managed:stateful-rulegroup/ThreatSignaturesDoSStrictOrder"
+        },
+        {
+            "Name": "ThreatSignaturesExploitsActionOrder",
+            "Arn": "arn:aws:network-firewall:eu-west-1:aws-managed:stateful-rulegroup/ThreatSignaturesExploitsActionOrder"
+        },
+        {
+            "Name": "ThreatSignaturesMalwareStrictOrder",
+            "Arn": "arn:aws:network-firewall:eu-west-1:aws-managed:stateful-rulegroup/ThreatSignaturesMalwareStrictOrder"
+        },
+        {
+            "Name": "ThreatSignaturesMalwareCoinminingStrictOrder",
+            "Arn": "arn:aws:network-firewall:eu-west-1:aws-managed:stateful-rulegroup/ThreatSignaturesMalwareCoinminingStrictOrder"
+        },
+        {
+            "Name": "ThreatSignaturesBotnetWebStrictOrder",
+            "Arn": "arn:aws:network-firewall:eu-west-1:aws-managed:stateful-rulegroup/ThreatSignaturesBotnetWebStrictOrder"
+        },
+        {
+            "Name": "BotNetCommandAndControlDomainsActionOrder",
+            "Arn": "arn:aws:network-firewall:eu-west-1:aws-managed:stateful-rulegroup/BotNetCommandAndControlDomainsActionOrder"
+        },
+        {
+            "Name": "ThreatSignaturesIOCActionOrder",
+            "Arn": "arn:aws:network-firewall:eu-west-1:aws-managed:stateful-rulegroup/ThreatSignaturesIOCActionOrder"
+        }
+    ]
+}
